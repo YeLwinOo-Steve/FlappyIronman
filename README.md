@@ -1,6 +1,6 @@
 # flappy_ironman
 
-This is Flappy Ironman game inspired by Flappy Game.
+This is Flappy Ironman game inspired by Flappy Bird Game.
 No external game engine packages are used.
 
 
